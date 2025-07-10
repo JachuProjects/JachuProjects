@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JachuProjects
-- 👀 I’m interested in Coding as well as Football and Creating Games! (Multitasker)
-- 🌱 I’m currently learning Creating Games
-- 🧑‍🏫 Beginner in Coding but learning alot
+Hi, I’m @jasmd2010
 
 I'm here to contribute projects that I make!
 
